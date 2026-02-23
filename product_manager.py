@@ -68,7 +68,7 @@ def delete_product(products):
 
 def search_product_by_name(products):
     if not products:
-        print("Kho hàng trống!")
+        print("Kho hàng trống, khong có sản phẩm nào!")
         return
 
     keyword = input("Nhập tên sản phẩm cần tìm: ").lower()
