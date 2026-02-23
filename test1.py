@@ -1,1 +1,0 @@
-print("tiến bị ngu")
