@@ -50,7 +50,7 @@ def update_product(products):
             product["brand"] = input("Thương hiệu mới: ")
             product["price"] = int(input("Giá mới: "))
             product["quantity"] = int(input("Số lượng mới: "))
-            print("Đã cập nhật!")
+            print("Đã cập nhật thành công!")
             return
 
     print("Không tìm thấy sản phẩm.")
