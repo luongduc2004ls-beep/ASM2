@@ -7,7 +7,7 @@ def main():
     while True:
 
         print("""
-====== QUẢN LÝ KHO SẢN PHẨM ======
+=== QUẢN LÝ KHO SẢN PHẨM ===
 1. Thêm sản phẩm
 2. cập nhật sản phẩm
 3. Xóa sản phẩm
