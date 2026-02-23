@@ -9,7 +9,7 @@ def main():
         print("""
 ====== QUẢN LÝ KHO SẢN PHẨM ======
 1. Thêm sản phẩm
-2. Cập nhật sản phẩm
+2. cập nhật sản phẩm
 3. Xóa sản phẩm
 4. Tìm kiếm theo tên
 5. Hiển thị tất cả
@@ -40,3 +40,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
