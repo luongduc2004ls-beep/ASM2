@@ -11,7 +11,7 @@ def main():
 1. Thêm sản phẩm
 2. cập nhật sản phẩm
 3. Xóa sản phẩm
-4. Tìm kiếm theo tên
+4. Tìm kiếm theo tên sản phẩm
 5. Hiển thị tất cả
 0. Thoát
 """)
